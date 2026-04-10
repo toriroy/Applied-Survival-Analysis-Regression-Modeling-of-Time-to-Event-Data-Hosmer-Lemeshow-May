@@ -1,4 +1,4 @@
-//* Figure 5.3 on page 150 of the textbook Applied Survival Analysis by Hosmer, Lemeshow, and May*//
+//* Figure 5.3 on page 150 of the textbook Applied Survival Analysis by Hosmer, Lemeshow, and May. The plot displays the estimated log hazard of mortality based on Body Mass Index (BMI), comparing a Fractional Polynomial (FP) model to a smooth spline model.*//
 
 filename aaa 'C:\Documents and Settings\lyu\My Documents\yulili\course\survival data\ch4\2009\whas500.dat';
 data whas500;
